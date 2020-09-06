@@ -1,0 +1,15 @@
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\dal.deps.json
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\dal.dll
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\dal.pdb
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.AssemblyInfoInputs.cache
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.AssemblyInfo.cs
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.dll
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.pdb
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.csprojAssemblyReference.cache
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\entities.dll
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\entities.pdb
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.csproj.CopyComplete
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\dal.runtimeconfig.json
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\bin\Debug\netcoreapp3.1\dal.runtimeconfig.dev.json
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.genruntimeconfig.cache
+C:\Users\welatPC\Desktop\project\dotnet\webapp\dal\obj\Debug\netcoreapp3.1\dal.csproj.CoreCompileInputs.cache

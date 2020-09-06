@@ -1,0 +1,9 @@
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\bin\Debug\netcoreapp3.1\entities.deps.json
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\bin\Debug\netcoreapp3.1\entities.dll
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\bin\Debug\netcoreapp3.1\entities.pdb
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.AssemblyInfoInputs.cache
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.AssemblyInfo.cs
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.csproj.CoreCompileInputs.cache
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.dll
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.pdb
+C:\Users\welatPC\Desktop\project\dotnet\webapp\entities\obj\Debug\netcoreapp3.1\entities.csprojAssemblyReference.cache
