@@ -13,6 +13,14 @@ namespace dal.ORM.EFCore
         {
             
         }
-        DbSet<Menus> GetMenus { get; set; }
+        
+        public DbSet<Users> Users { get; set; }
+        public DbSet<AdressDetails> AdressDetails { get; set; }
+        public DbSet<CustomerBankInformation> CustomerBankInformations{ get; set; }
+        public DbSet<CustomersDetail>  customersDetails { get; set; }
+        public DbSet<CustumersAdressDetails> MyProperty { get; set; }
+        
+
+
     }
 }
